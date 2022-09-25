@@ -46,7 +46,7 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/d92924b1d925bb134e308bd29c9de6c302ed3beb/topics/terminal/terminal.png" />
 <img align="left" alt="Linux" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png">
 
-
+ <br />  
 
 ### Frameworks and Libraries:
 <img align="left" alt="ReactJS" width="26px" src="https://img.icons8.com/color/344/react-native.png">  
@@ -57,7 +57,13 @@
 <img align="left" alt="tailwind" width="26px" src="https://img.icons8.com/color/72/tailwind_css.png">  
 <img align="left" alt="bootstrap" width="26px" src="https://img.icons8.com/color/344/bootstrap.png">  
 <img align="left" alt="SQL" width="32px" src="https://img.icons8.com/color/344/mysql-logo.png">  
- <br />
+ 
+  
+<br />
+<br />
+
+
+
 ### Github Stats Top Languages
 <a href="https://github-readme-stats.vercel.app/api?username=CoderNehal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117"><img alt="Nehal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CoderNehal&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderNehal&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117"><img alt="Nehal's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderNehal&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>

@@ -1,5 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Nehal</h1>
+<a href="https://app.daily.dev/LazySpyFTW"><img src="https://api.daily.dev/devcards/7b33572d8f11403981aef396b3968cc0.png?r=9pa" width="400" alt="Nehal Ughade's Dev Card"/></a>
 <h3 align="center">I do Full Stack MERN, TailwindCSS, Django</h3>
 </p>
 
